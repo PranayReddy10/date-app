@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "753642038607",
+    "project_id": "dating-debca",
+    "storage_bucket": "dating-debca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753642038607:android:888466ab8ede9fcb66113a",
+        "android_client_info": {
+          "package_name": "com.adult.dating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753642038607-i40h0q2dr007vfqki2dsvd13c7kmld0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adult.dating",
+            "certificate_hash": "2516ea20470e6ded6ea05c5cc206cc29e350f355"
+          }
+        },
+        {
+          "client_id": "753642038607-kuln332mpf0sdhikslju1r57mo52ftm3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adult.dating",
+            "certificate_hash": "13889c4b0562326b44478464b99b783819d6fee5"
+          }
+        },
+        {
+          "client_id": "753642038607-ncfjpt6vhvrja4dlig3r7lq208vi6g5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIYR1sXIMaqCSc054M8-ziByYMVhA6NOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753642038607-ncfjpt6vhvrja4dlig3r7lq208vi6g5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
